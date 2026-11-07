@@ -1,0 +1,11 @@
+{
+  "name": "seerah-ts-darb-zubaydah-stations",
+  "version": "1.0.0",
+  "description": "Darb Zubaydah & Historic Hajj Caravan Route Birkat/Milestone Graph (خريطة محطات درب زبيدة وطرق الحج التاريخية)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
